@@ -11,7 +11,6 @@
 */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
