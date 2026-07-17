@@ -11,7 +11,7 @@ title                    : "Mariana R. Neves"
 title_separator          : "-"
 name                     : &name "Mariana R. Neves"
 description              : &description "personal description"
-url                      : https://marianaraniere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marianarneves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marianaraniere/marianaraniere.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -310,8 +310,7 @@ compress_html:
   ignore:
     envs: development
 
-
-theme: minimal-mistakes-jekyll
+# Theme
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
